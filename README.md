@@ -1,5 +1,5 @@
 # Beeline Moto mount for Royal Enfield 650 Twins
-![](/assets/images/in-site.JPG)
+![](/assets/images/in-situ.JPG)
 
 These are 3D-printable mounts for the [Beeline Moto](https://global.beeline.co/) navigation device suitable for the Royal Enfield 650 Twins (Interceptor 650 and Continental GT 650). They require the use of the original insert from a Beeline mount.
 
