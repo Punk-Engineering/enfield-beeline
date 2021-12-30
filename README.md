@@ -38,3 +38,6 @@ I'm very pleased that you're interested in the design, but I am not interested i
 
 ### Can you design a version with [X]? I'll pay you!
 I'm interested to hear your feedback on how this can be better, and if you have a suggestion I find interesting I will consider making additional changes, but I am not really in the design-for-hire business. If you're really keen, you could try hiring someone on [Fiverr](https://www.fiverr.com/search/gigs?query=CAD), but you'll need to be able to spec out exactly what you want.
+
+### How should I weatherproof this?
+How much you need to worry about this is going to depend on the material you print it from and where you store your motorcycle, but there's no reason you can't apply a weatherproof coat of spray paint or something similar.
