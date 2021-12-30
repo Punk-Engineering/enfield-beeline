@@ -17,6 +17,8 @@ Some people told me they wanted to get one of these printed, but the heat-set in
 
 I am not a mechanical engineer, but my guess is that if this connection were to fail, it would be while attaching and detaching the unit into the insert, rather than when you're riding down the road. The Beeline is light and the connection is not subjected to that much stress, so I would think you could get away with screwing the insert straight into the print. But there's no question a heat-set insert is going to be more secure.
 
+**I make no warranty for the safety of your motorcycle or navigation unit, and cannot be held responsible for any issues that arise from your use or implementation of either design.**
+
 ## Instructions
 Install the OEM insert in the print's seat using your chosen screw method. The seat is keyed so the correct orientation should be obvious. 
 
@@ -24,7 +26,7 @@ Install the OEM insert in the print's seat using your chosen screw method. The s
 
 The mount attaches between the gauge cluster and cluster bracket: remove the 10mm acorn nuts and washers, lift up the gauge cluster, position the print so that the provided holes are lined up outside the rubber washers on the cluster bracket.
 
-![Print alighted with rubber washers](/assets/images/washers.JPG)
+![Print aligned with rubber washers](/assets/images/washers.JPG)
 
 Re-attach the cluster to the cluster bracket, making sure th print remains correctly aligned. Replace the washers and acorn nuts. 
 
